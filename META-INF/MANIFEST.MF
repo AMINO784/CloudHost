@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Class-Path: ./ JDA-4.1.1_162.jar jsr305-3.0.2.jar annotations-16.0.
+ 1.jar slf4j-api-1.7.25.jar nv-websocket-client-2.9.jar okhttp-3.13.0.ja
+ r okio-1.17.2.jar commons-collections4-4.1.jar trove4j-3.0.3.jar jackso
+ n-databind-2.10.1.jar jackson-annotations-2.10.1.jar jackson-core-2.10.
+ 1.jar
+Rsrc-Main-Class: de.Felipe.DiscordBot
+Class-Path: .
+
